@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30723" started-at="2018-06-21T21:00:46Z" finished-at="2018-06-21T21:01:17Z">
+  <suite name="Default suite" duration-ms="36708" started-at="2018-06-22T14:51:38Z" finished-at="2018-06-22T14:52:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30723" started-at="2018-06-21T21:00:46Z" finished-at="2018-06-21T21:01:17Z">
+    <test name="Default test" duration-ms="36708" started-at="2018-06-22T14:51:38Z" finished-at="2018-06-22T14:52:15Z">
       <class name="com.prestashop.tests.PositiveScenarios">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.prestashop.tests.PositiveScenarios@7d9d1a19]" name="setUp" is-config="true" duration-ms="4805" started-at="2018-06-21T21:00:46Z" finished-at="2018-06-21T21:00:51Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.prestashop.tests.PositiveScenarios@70ab1ce0]" name="setUp" is-config="true" duration-ms="4941" started-at="2018-06-22T14:51:38Z" finished-at="2018-06-22T14:51:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginClick()[pri:0, instance:com.prestashop.tests.PositiveScenarios@7d9d1a19]" name="loginClick" duration-ms="25898" started-at="2018-06-21T21:00:51Z" finished-at="2018-06-21T21:01:17Z">
+        <test-method status="PASS" signature="loginClick()[pri:0, instance:com.prestashop.tests.PositiveScenarios@70ab1ce0]" name="loginClick" duration-ms="31749" started-at="2018-06-22T14:51:43Z" finished-at="2018-06-22T14:52:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginClick -->
